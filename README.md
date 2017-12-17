@@ -2,7 +2,7 @@
 
 ## snabbdom virtual dom structure
 
-## how vue create vnode and compare update and delete simulation
+## how vue creates vnode and compare update and delete simulation
 
 page: <https://kellywoo.github.io/vnode/>
 
